@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesObjects
 {
-    class Program
+    class RAM
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }

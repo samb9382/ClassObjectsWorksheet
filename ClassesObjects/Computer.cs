@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesObjects
 {
-    class Program
+    class Computer
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }

@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesObjects
 {
-    class Program
+    class MotherBoard
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
