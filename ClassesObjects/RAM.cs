@@ -11,5 +11,12 @@ namespace ClassesObjects
         //member variables
         double totalGigabytes;
         string brand;
+
+        //constructor
+        public RAM(string brand, double totalGigabytes)
+        {
+            this.brand = brand;
+            this.totalGigabytes = totalGigabytes;
+        }
     }
 }

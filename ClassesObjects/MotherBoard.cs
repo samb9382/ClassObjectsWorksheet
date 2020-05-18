@@ -14,5 +14,15 @@ namespace ClassesObjects
         RAM temporaryMemory;
         HardDrive storage;
         GPU graphics;
+
+        //constructor
+        public MotherBoard(string manufacturer, CPU cpu, RAM ram, HardDrive hardDrive, GPU gpu)
+        {
+            this.manufacturer = manufacturer;
+            temporaryMemory = ram;
+            processor = cpu;
+            storage = hardDrive;
+            graphics = gpu;
+        }
     }
 }
