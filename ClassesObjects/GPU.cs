@@ -8,5 +8,9 @@ namespace ClassesObjects
 {
     class GPU
     {
+        //member variables
+        string manufacturer;
+        double effectiveMemory;
+
     }
 }

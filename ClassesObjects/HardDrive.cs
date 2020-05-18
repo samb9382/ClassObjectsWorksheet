@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ClassesObjects
 {
-    class CPU
+    class HardDrive
     {
         //member variables
-        string manufacturer;
-        string name;
+        double totalStorage;
+        double availableStorage;
 
     }
 }

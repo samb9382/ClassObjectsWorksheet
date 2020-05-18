@@ -8,5 +8,11 @@ namespace ClassesObjects
 {
     class MotherBoard
     {
+        //member variables
+        string manufacturer;
+        CPU processor;
+        RAM temporaryMemory;
+        HardDrive storage;
+        GPU graphics;
     }
 }

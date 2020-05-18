@@ -8,5 +8,8 @@ namespace ClassesObjects
 {
     class RAM
     {
+        //member variables
+        double totalGigabytes;
+        string brand;
     }
 }

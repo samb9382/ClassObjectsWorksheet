@@ -46,6 +46,7 @@
     <Compile Include="Computer.cs" />
     <Compile Include="CPU.cs" />
     <Compile Include="GPU.cs" />
+    <Compile Include="HardDrive.cs" />
     <Compile Include="MotherBoard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
